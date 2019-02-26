@@ -4,9 +4,6 @@ Webpack as application bundler.
 Babel for tranpiling ES6 to ES5.
 EJS for Express Views.
 
-To run in devlopment mode- 
-npm start
-
-To run package bundler-
-npm run webpack
-(bundle.js will be created in public/bundle.js)
+Steps to run in devlopment mode- 
+1)npm run webpack (bundle.js will be created in public/bundle.js)
+2)npm start
