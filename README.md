@@ -6,3 +6,7 @@ EJS for Express Views.
 
 To run in devlopment mode- 
 npm start
+
+To run package bundler-
+npm run webpack
+(bundle.js will be created in public/bundle.js)
